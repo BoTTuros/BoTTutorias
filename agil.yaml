@@ -1,4 +1,6 @@
 --- 
+excepciones: 
+  - exceptions/noInternet.py
 personas: 
   - "Lorenzo Marqués Muñoz"
   - "Miguel Tejada Rider"
