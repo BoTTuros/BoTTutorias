@@ -4,5 +4,6 @@ personas:
   - "Miguel Chaval Normal" #Estudiante medio
 excepciones: 
   - exceptions/noInternet.py
-lenguaje : "Python 3.9.1"
+lenguaje : "Python 3.8.5"
 taskfile : "invoke.py"
+linter : "SonarLint"
