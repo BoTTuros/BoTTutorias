@@ -1,7 +1,7 @@
 --- 
 personas: 
-  - "Lorenzo Marqués Muñoz"
-  - "Miguel Tejada Rider"
+  - "Lorenzo Tecno Fan"    #Entusiasta de la tecnología, pero no mucho, lo suficiente para querer usar un bot
+  - "Miguel Chaval Normal" #Estudiante medio
 excepciones: 
   - exceptions/noInternet.py
 lenguaje : "Python 3.9.1"
